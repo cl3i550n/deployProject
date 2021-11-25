@@ -1,3 +1,6 @@
-var banco = {};
+module.exports.db = () => {
+    var banco = {
 
-exports.db = banco;
+    }
+    return
+}
